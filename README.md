@@ -11,6 +11,7 @@
   <img align="center" alt="JanR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JanR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JanR-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="JanR-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/java-original.svg">
 </div>
   
   ##
